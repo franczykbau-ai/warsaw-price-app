@@ -1,0 +1,38 @@
+station,line,lat,lon
+Kabaty,M1,52.1316,21.0657
+Natolin,M1,52.1441,21.0578
+Imielin,M1,52.1493,21.0455
+Stokłosy,M1,52.1586,21.0378
+Ursynów,M1,52.1619,21.0273
+Służew,M1,52.1733,21.0261
+Wilanowska,M1,52.1812,21.022
+Wierzbno,M1,52.1897,21.0168
+Racławicka,M1,52.1964,21.012
+Pole Mokotowskie,M1,52.208,21.0061
+Politechnika,M1,52.2199,21.0153
+Centrum,M1,52.2297,21.0122
+Świętokrzyska,M1/M2,52.2358,21.0087
+Ratusz Arsenał,M1,52.2442,21.0031
+Dworzec Gdański,M1,52.2567,20.9948
+Plac Wilsona,M1,52.2686,20.9846
+Marymont,M1,52.2729,20.9712
+Słodowiec,M1,52.2765,20.9506
+Stare Bielany,M1,52.2808,20.9324
+Wawrzyszew,M1,52.287,20.939
+Młociny,M1,52.2905,20.9294
+Bemowo,M2,52.2538,20.92
+Księcia Janusza,M2,52.244,20.9429
+Młynów,M2,52.2444,20.972
+Płocka,M2,52.2358,20.9756
+Rondo Daszyńskiego,M2,52.2304,20.9835
+Rondo ONZ,M2,52.2321,20.999
+Nowy Świat–Uniwersytet,M2,52.2356,21.019
+Centrum Nauki Kopernik,M2,52.2396,21.0311
+Stadion Narodowy,M2,52.2461,21.0436
+Dworzec Wileński,M2,52.252,21.0353
+Szwedzka,M2,52.26,21.0412
+Targówek Mieszkaniowy,M2,52.2701,21.0507
+Trocka,M2,52.2758,21.0618
+Zacisze,M2,52.2808,21.0725
+Kondratowicza,M2,52.289,21.0487
+Bródno,M2,52.2913,21.047
